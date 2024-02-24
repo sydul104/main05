@@ -36,10 +36,6 @@ https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
 #http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/100666
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UOw90sy.png" group-title="BANGLA", Jago News 24
-#http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
-
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
 #https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
 #http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
@@ -104,9 +100,6 @@ http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
 http://176.119.29.52/live.ts?channelId=106&uid=5060&deviceMac=00:1A:79:73:9C:A1
 
-#EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="BANGLA",Mohona Tv
-https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png" group-title="BANGLA",Bijoy TV
 #https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
 http://cdn01.palki.tv/live/BijoyTV-M/tracks-v2a1/mono.m3u8
@@ -154,9 +147,6 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-68 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel xp
 #http://11plus.live/live/travelxp/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-http://11plus.live/live/bbcearth/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
@@ -251,6 +241,7 @@ http://xtv.ooo:8080/6199216/619002/66179
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg" group-title="English Movie",Sony Pix HD
 http://xtv.ooo:8080/6199216/619002/66224
 
+
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
@@ -260,7 +251,7 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports
 #http://38.96.178.201/live/TSports/index.m3u8
 #http://11plus.live/live/tsports/index.m3u8
 http://103.142.80.22:8080/Channel-1/tracks-v1a1/mono.m3u8
@@ -305,7 +296,7 @@ http://watchindia.net:8880/live/71740/31043/2423.ts
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS",Sony Sports-2 HD
-http://11plus.live/live/sonyten2/index.m3u8
+#http://11plus.live/live/sonyten2/index.m3u8
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"group-title="SPORTS",Sony Sports-3 HD
@@ -349,7 +340,7 @@ https://webudit.hlsjs.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay
 https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
-http://163.172.55.74:8080/Sue.W.2023_WAL!/URAQ9XwcqhB4jGGwq/14640
+#http://163.172.55.74:8080/Sue.W.2023_WAL!/URAQ9XwcqhB4jGGwq/14640
 https://webudit.hlsjs.ru/lb/premium368/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
