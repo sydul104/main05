@@ -132,7 +132,7 @@ https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png" group-title="English News",Al Jazeera
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="English News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/LD1Lj0v.png", DW
@@ -144,14 +144,14 @@ https://livess.jagobd.com.bd/live-orgin/dwnews.stream/chunks.m3u8
 #http://11plus.live/live/discovery/index.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
-#EXTINF:-68 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel xp
+#EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
 #http://11plus.live/live/travelxp/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
@@ -240,7 +240,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX SD
 http://xtv.ooo:8080/6199216/619002/66179
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg" group-title="English Movie",Sony Pix HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English Movie",Sony Pix HD
 http://xtv.ooo:8080/6199216/619002/66224
 
 
@@ -254,10 +254,9 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports
-#http://38.96.178.201/live/TSports/index.m3u8
 #http://11plus.live/live/tsports/index.m3u8
-http://103.142.80.22:8080/Channel-1/tracks-v1a1/mono.m3u8
-
+#http://103.142.80.22:8080/Channel-1/tracks-v1a1/mono.m3u8
+http://38.96.178.201/live/TSports/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://103.142.80.22:8080/GAZI/tracks-v1a1/mono.m3u8
@@ -274,23 +273,21 @@ http://11plus.live/live/stersports1hd/index.m3u8
 #http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 http://11plus.live/live/starsports2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="SPORTS",Star Sports 3
 http://muka03.wanicelife.com:8880/48msk050004/62869843/55271
 
-#EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
+#EXTINF:-135 tvg-logo="35 tvg-logo="https://imgur.co" group-title="SPORTS",Star Sports Select 1
 #http://11plus.live/live/Star_Sport_Select1HD/index.m3u8
 #http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1114583&extension=ts
-http://muka03.wanicelife.com:8880/48msk050004/62869843/55270
+#http://muka03.wanicelife.com:8880/48msk050004/62869843/55270
+http://103.120.172.74:1030
 
-#EXTINF:-136 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-Select-2-HD-Logo.jpg" group-title="SPORTS",Star Sports Select 2
+#EXTINF:-136 tvg-logo="https://imgur.com/pFgUCZF.pngg" group-title="SPORTS",Star Sports Select 2
 #http://11plus.live/live/select2/index.m3u8
-http://muka03.wanicelife.com:8880/48msk050004/62869843/55269
+#http://muka03.wanicelife.com:8880/48msk050004/62869843/55269
+http://103.120.172.74:4700
 
-
-#EXTINF:-136 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-Select-2-HD-Logo.jpg" group-title="SPORTS",Star Sports Select 2
-#http://103.120.172.74:4700
-
-#EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="SPORTS",Sports-18
+#EXTINF:-135 tvg-logo="https://images.news18.com/ibnlive/uploads/2022/04/sports18-edited-165001613016x9.jpg" group-title="SPORTS",Sports-18
 http://watchindia.net:8880/live/71740/31043/2423.ts
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
